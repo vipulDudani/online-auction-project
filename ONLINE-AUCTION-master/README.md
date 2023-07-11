@@ -10,9 +10,6 @@ Let’s Visit our Website “BestBid” – An interactive and User friendly Vir
 
 
 
-![2](https://github.com/srajan343/online-auction/assets/77824617/684f1027-f80a-48a8-b7fa-a5908e4c93c9)
-
-'
 
 
 ## Technologies
@@ -20,6 +17,21 @@ Let’s Visit our Website “BestBid” – An interactive and User friendly Vir
 - Frontend - Bootstrap 5 , React.js 
 - Backend - Node js , Express
 - Database - MongoDB
+
+
+
+
+
+![2](https://github.com/srajan343/online-auction/assets/77824617/684f1027-f80a-48a8-b7fa-a5908e4c93c9)
+
+'
+
+
+
+
+
+
+
 
 
 ## SET-UPS
