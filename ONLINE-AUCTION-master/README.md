@@ -3,6 +3,7 @@
 > The main purpose our website is, to give a virtual platform to the sellers who are interested to put their product for online selling via Bidding. And the bidders who are interested to buy and bid for the rare and best things. 
 
 Let’s Visit our Website “BestBid” – An interactive and User friendly Virtual Platform for auction!!
+blob:https://web.whatsapp.com/63bcb466-131e-4285-8b00-54035daf48b7
 
 
 
